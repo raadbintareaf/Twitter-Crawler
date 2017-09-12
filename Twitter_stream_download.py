@@ -4,7 +4,7 @@
 # To run the code : use the following command by passing your requested keywords to crawl lively tweets about it.
 # python twitter_stream_download.py -q (your keyword) -d data
 
-
+import config
 import string
 import time
 import tweepy
@@ -12,7 +12,6 @@ from tweepy import Stream
 from tweepy import OAuthHandler
 from tweepy.streaming import StreamListener
 import argparse
-import config
 import json
 
 def get_parser():
