@@ -62,14 +62,12 @@ MOOC: stands for Massive Open Online Courses.
 
 
 
-
 **2g_3g_4g_coverage_map**: containts a map that address all countries in the world with the current internet network coverage type (2G: Red, 3G:Blue and 4G:Yellow). *http://extensia-ltd.com/africa-africa-world-looks-like-2g-3g-4g/
 ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/2g_3g_4g_coverage_map.png)
 
 
-
-
-
+**MOOCs global covereage by HPI**: Learning analysis shows less usage of elearning platforms in Africa compared to the penetration and the popularity of social networking sites worldwidely. ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/mooc_coverage.png)
+  
 
 **Three_Hashtags _Visualization**: a hashtag network for (#OpenHpi, #HPI_DE, #OpenSAP) over the period 20th-27th/June/2017.  
 ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/Three_Hashtags%20_Visualization.png)
@@ -79,16 +77,7 @@ MOOC: stands for Massive Open Online Courses.
 ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/internet_penetration_in_africa.PNG)
 
 
-**platform_penetration**: figure that visualize social media platform penetration(Facebook, Twitter and Linkedin)*.
-*https://social.ogilvy.com/wp-content/uploads/Social-Media-in-Africa_Infographic.pdf
 
-![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/platform_penetration.PNG)
-
-**platform_penetration1**:
-![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/platform_penetration1.PNG)
-
-**platform_penetration2**:
-![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/platform_penetration2.PNG)
 
 
 
