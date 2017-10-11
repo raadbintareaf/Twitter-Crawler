@@ -38,7 +38,7 @@ Linkedin post : a figure shows a post at Linkedin platform, which the post conta
 
 
 
-Linkedin post activity: resul of the engagement at the Linkedin post over the last month (September). 
+**Linkedin post activity**: result of the engagement at the Linkedin post over the last month (September). 
 ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/linkedin%20post%20activity.PNG)
 
 
@@ -47,7 +47,7 @@ Linkedin post activity: resul of the engagement at the Linkedin post over the la
 
 
 
-Twitter Post: a figure shows a tweet posted at twitter platform over a month. The tweet contains a link for same educational video that Linkedin have. 
+**Twitter Post**: a figure shows a tweet posted at twitter platform over a month. The tweet contains a link for same educational video that Linkedin have. 
 ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/tweet%20post.PNG)
 
 
@@ -55,7 +55,7 @@ Twitter Post: a figure shows a tweet posted at twitter platform over a month. Th
 
 
 
-Twitter post activity: result of posting this tweet for over a month, contains counter for how many likes, link clicks and hashtag clicks.
+**Twitter post activity**: result of posting this tweet for over a month, contains counter for how many likes, link clicks and hashtag clicks.
 ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/tweet%20activity.PNG)
 
 
@@ -63,7 +63,7 @@ Twitter post activity: result of posting this tweet for over a month, contains c
 
 
 
-2g_3g_4g_coverage_map: containts a map that address all countries in the world with the current internet network coverage type (2G: Red, 3G:Blue and 4G:Yellow). *http://extensia-ltd.com/africa-africa-world-looks-like-2g-3g-4g/
+**2g_3g_4g_coverage_map**: containts a map that address all countries in the world with the current internet network coverage type (2G: Red, 3G:Blue and 4G:Yellow). *http://extensia-ltd.com/africa-africa-world-looks-like-2g-3g-4g/
 ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/2g_3g_4g_coverage_map.png)
 
 
@@ -71,7 +71,7 @@ Twitter post activity: result of posting this tweet for over a month, contains c
 
 
 
-Three_Hashtags _Visualization: a hashtag network for (#OpenHpi, #HPI_DE, #OpenSAP) over the period 20th-27th/June/2017.  
+**Three_Hashtags _Visualization**: a hashtag network for (#OpenHpi, #HPI_DE, #OpenSAP) over the period 20th-27th/June/2017.  
 ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/Three_Hashtags%20_Visualization.png)
 
 
