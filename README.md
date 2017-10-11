@@ -72,12 +72,6 @@ MOOC: stands for Massive Open Online Courses.
 ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/Three_Hashtags%20_Visualization.png)
 
 
-**internet_penetration_in_africa**: figures shows the population and internet penetration in Africa,country by country. 
-![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/internet_penetration_in_africa.PNG)
-
-
-
-
 
 
 
