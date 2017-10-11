@@ -87,8 +87,8 @@ MOOC: stands for Massive Open Online Courses.
 **platform_penetration1**:
 ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/platform_penetration1.PNG)
 
-**platform_penetration2**:![img]
-(https://github.com/raadbintareaf/Twitter-Crawler/blob/master/platform_penetration2.PNG)
+**platform_penetration2**:
+![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/platform_penetration2.PNG)
 
 
 
