@@ -82,5 +82,5 @@ MOOC: stands for Massive Open Online Courses.
 
   
  **Service Provider Facebook Bundles** Figure shows a typical menu from the ISP showing an optional selection of bundle bundles explicitly for Social media such as WhatsApp, Facebook and YouTube.
- ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/weekly_bundle.png)
- ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/fb_bundle.png)
+ ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/weekly_bundle.PNG)
+ ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/fb_bundle.PNG)
