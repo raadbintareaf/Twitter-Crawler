@@ -75,5 +75,17 @@ MOOC: stands for Massive Open Online Courses.
 ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/Three_Hashtags%20_Visualization.png)
 
 
+**internet_penetration_in_africa**: figures shows the population and internet penetration in Africa,country by country. 
+![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/Three_Hashtags%20_Visualization.png)
+
+
+**platform_penetration**: figure that visualize social media platform penetration(Facebook, Twitter and Linkedin)*.
+*https://social.ogilvy.com/wp-content/uploads/Social-Media-in-Africa_Infographic.pdf
+
+![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/platform_penetration.PNG)
+**platform_penetration1**:![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/platform_penetration1.PNG)
+**platform_penetration2**:![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/platform_penetration2.PNG)
+
+
 
   
