@@ -29,7 +29,7 @@ MOOC: stands for Massive Open Online Courses.
 # Figures
 
 
-Linkedin post : a figure shows a post at Linkedin platform, which the post contains an educational video material.
+**Linkedin post** : a figure shows a post at Linkedin platform, which the post contains an educational video material.
 ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/linkedin%20post.PNG)
 
 
