@@ -81,4 +81,6 @@ MOOC: stands for Massive Open Online Courses.
 **Facebook Free Mode** Figure shows users of Facebook have an option to go "FREE MODE" which offer free Internet data services to the user in Facebook. ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/fb_free.PNG)
 
   
- **Service Provider Facebook Bundles** Figure shows a typical menu from the ISP showing an optional selection of bundle bundles explicitly for Social media such as WhatsApp, Facebook and YouTube.![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/weekly_bundle.png)![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/fb_bundle.png)
+ **Service Provider Facebook Bundles** Figure shows a typical menu from the ISP showing an optional selection of bundle bundles explicitly for Social media such as WhatsApp, Facebook and YouTube.
+ ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/weekly_bundle.png)
+ ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/fb_bundle.png)
