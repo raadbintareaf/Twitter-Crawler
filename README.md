@@ -66,8 +66,7 @@ MOOC: stands for Massive Open Online Courses.
 ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/2g_3g_4g_coverage_map.png)
 
 
-**MOOCs global covereage by HPI**: Learning analysis shows less usage of elearning platforms in Africa compared to the penetration and the popularity of social networking sites worldwidely. ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/mooc_coverage.png)
-  
+**MOOCs global covereage by HPI**: Learning analysis shows less usage of elearning platforms in Africa compared to the penetration and the popularity of social networking sites worldwidely. ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/mooc_coverage.PNG)
 
 **Three_Hashtags _Visualization**: a hashtag network for (#OpenHpi, #HPI_DE, #OpenSAP) over the period 20th-27th/June/2017.  
 ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/Three_Hashtags%20_Visualization.png)
