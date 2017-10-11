@@ -42,6 +42,9 @@ Twitter post activity: result of posting this tweet for over a month, contains c
 Three_Hashtags _Visualization: a hashtag network for (#OpenHpi, #HPI_DE, #OpenSAP) over the period 20th-27th/June/2017.  
 
 
-
+<p align="center">
+  <img src="https://github.com/raadbintareaf/Twitter-Crawler/blob/master/Three_Hashtags%20_Visualization.png" width="350"/>
+  <img src="https://github.com/raadbintareaf/Twitter-Crawler/blob/master/Twitter_stream_download.py" width="350"/>
+</p>
 
   
