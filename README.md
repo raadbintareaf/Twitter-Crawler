@@ -76,8 +76,9 @@ MOOC: stands for Massive Open Online Courses.
 **Internet Service**: This table and diagram shows the increasing Internet Services in the East African country with high penetration of mobiles such as mobile devices and wireless communication.
 ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/internet_service.png)
 
+**Overall usage of Social Media Applications** Figure summarizes the overall usage of social media applications* with frequency use of Social Media among respondent. *Source:  Deo Shao , OSN tanzania. ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/overall_usage.png)
+
 **Facebook Free Mode** Figure shows users of Facebook have an option to go "FREE MODE" which offer free Internet data services to the user in Facebook. ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/fb_free.PNG)
 
-**Overall usage of Social Media Applications** Figure summarizes the overall usage of social media applications* with frequency use of Social Media among respondent. *Source:  Deo Shao , OSN tanzania. ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/overall_usage.png)
   
  **Service Provider Facebook Bundles** Figure shows a typical menu from the ISP showing an optional selection of bundle bundles explicitly for Social media such as WhatsApp, Facebook and YouTube.![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/weekly_bundle.png)![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/fb_bundle.png)
