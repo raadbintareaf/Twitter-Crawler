@@ -80,3 +80,4 @@ MOOC: stands for Massive Open Online Courses.
 
 **Overall usage of Social Media Applications** Figure summarizes the overall usage of social media applications* with frequency use of Social Media among respondent. *Source:  Deo Shao , OSN tanzania. ![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/overall_usage.png)
   
+ **Service Provider Facebook Bundles** Figure shows a typical menu from the ISP showing an optional selection of bundle bundles explicitly for Social media such as WhatsApp, Facebook and YouTube.![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/weekly_bundle.png)![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/fb_bundle.png)
