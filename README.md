@@ -73,6 +73,7 @@ MOOC: stands for Massive Open Online Courses.
 
 
 
-
+**Internet Service**: This table and diagram shows the increasing Internet Services in the East African country with high penetration of mobiles such as mobile devices and wireless communication.
+![img](https://github.com/raadbintareaf/Twitter-Crawler/blob/master/internet_service.png)
 
   
